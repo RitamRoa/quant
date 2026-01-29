@@ -43,6 +43,11 @@ def run_pro_simulation():
 
     # 1. Market Health Check
     nifty = yf.download("^NSEI", period="100d", interval="1d", progress=False)
+    
+    if nifty.empty:
+        print("Error: Could not retrieve Nifty 50 data (^NSEI). Check internet connection or ticker symbol.")
+        return
+
     if isinstance(nifty.columns, pd.MultiIndex): nifty.columns = nifty.columns.droplevel(1)
     market_bullish = nifty['Close'].iloc[-1] > nifty['Close'].rolling(50).mean().iloc[-1]
     nifty_3d_ret = nifty['Close'].pct_change(3).iloc[-1]

@@ -1,12 +1,12 @@
-🚀 Market Status: BEARISH | Date: 2026-01-27 11:10
+🚀 Market Status: BEARISH | Date: 2026-01-27 14:12
 --------------------------------------------------
 DLF          | 3.59   |   -0.66% | ❌        | 📉 LAGGARD  | ₹    609.99
 CIPLA        | 7.08   |   -0.95% | ❌        | 📉 LAGGARD  | ₹   1366.98
 ADANIGREEN   | 8.29   |   -5.95% | ❌        | 📉 LAGGARD  | ₹    841.95
 TVSMOTOR     | 9.44   |   +1.11% | ❌        | 📉 LAGGARD  | ₹   3695.79
-LODHA        | 10.56  |   -3.96% | ❌        | 📉 LAGGARD  | ₹    962.99
+HAVELLS      | 9.55   |   -0.03% | ❌        | 📉 LAGGARD  | ₹   1312.84
+LODHA        | 10.64  |   -1.62% | ❌        | 📉 LAGGARD  | ₹    936.06
 M_M          | 10.75  |   +0.93% | ❌        | 📈 LEADER   | ₹   3682.73
 LT           | 10.96  |   +1.62% | ❌        | 📉 LAGGARD  | ₹   3916.93
-HAVELLS      | 11.33  |   +0.95% | ❌        | 📉 LAGGARD  | ₹   1341.83
 RELIANCE     | 11.66  |   +2.57% | ❌        | 📈 LEADER   | ₹   1463.34
 HDFCBANK     | 11.67  |   +2.69% | ❌        | 📉 LAGGARD  | ₹    968.22

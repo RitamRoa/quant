@@ -1,0 +1,12 @@
+🚀 Market Status: BEARISH | Date: 2026-01-29 20:30
+--------------------------------------------------
+JIOFIN       | 10.55  |   +4.13% | ✅        | 📉 LAGGARD  | ₹    272.64
+HAVELLS      | 10.78  |   +2.50% | ❌        | 📉 LAGGARD  | ₹   1343.94
+TITAN        | 11.13  |   +0.72% | ❌        | 📉 LAGGARD  | ₹   4086.15
+CIPLA        | 11.68  |   +3.22% | ❌        | 📉 LAGGARD  | ₹   1403.00
+MARUTI       | 13.46  |   -1.11% | ❌        | 📉 LAGGARD  | ₹  15098.11
+SUNPHARMA    | 16.15  |   +1.23% | ❌        | 📉 LAGGARD  | ₹   1656.46
+APOLLOHOSP   | 16.99  |   +2.20% | ❌        | 📉 LAGGARD  | ₹   7154.89
+M_M          | 17.26  |   -0.00% | ❌        | 📉 LAGGARD  | ₹   3486.10
+BHARTIARTL   | 20.18  |   +1.82% | ❌        | 📉 LAGGARD  | ₹   2062.79
+ITC          | 20.73  |   +2.44% | ❌        | 📉 LAGGARD  | ₹    335.92
